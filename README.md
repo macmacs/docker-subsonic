@@ -4,7 +4,7 @@ Docker (http://docker.io) image for the Subsonic media streamer.
 
 ## Noteworthy
 
-* Subsonic 6.1.3 (http://www.subsonic.org)
+* Subsonic 6.1.5 (http://www.subsonic.org)
 
 ## Build your own image
 
